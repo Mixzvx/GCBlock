@@ -2,7 +2,7 @@
 
 一个 **LSPosed 模块**：把「荣耀游戏管家」(com.hihonor.gameassistant) 里那些由**游戏中心**提供 / 推广性质的功能去掉，只留本地工具。
 
-> 面向已 root、装了 LSPosed / Vector 的荣耀设备。仅对 `com.hihonor.gameassistant` 生效。
+> 该软件完全由大肥鱼完成。测试设备：荣耀Magic8 游戏管家版本18.0.36.321。仅对 `com.hihonor.gameassistant` 生效。
 
 [![Platform](https://img.shields.io/badge/Android-12%2B-3DDC84?logo=android&logoColor=white)](#兼容性)
 [![Framework](https://img.shields.io/badge/LSPosed-API%2082%20%7C%20libxposed%20102-blue)](#兼容性)
