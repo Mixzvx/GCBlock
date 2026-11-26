@@ -1,0 +1,20 @@
+# build output
+out/
+*.apk
+*.apk.idsig
+
+# signing material — NEVER commit
+*.pk8
+*.pem
+*.jks
+*.keystore
+
+# python
+__pycache__/
+*.py[cod]
+
+# misc
+.DS_Store
+.idea/
+*.iml
+*.log
